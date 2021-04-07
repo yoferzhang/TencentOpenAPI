@@ -1,0 +1,2 @@
+# TencentOpenAPI
+QQ_OpenSDK
